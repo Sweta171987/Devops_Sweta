@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="800" maximized="true" width="720" x="245" y="152">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="mib_manager.actionSet1" itemType="typeToolBarContribution" x="384" y="31"/>
+</coolbarLayout>
+<page focus="true" label="&lt;Unknown Label&gt; - mib2rules">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</editorArea>
+</editors>
+<views>
+<view id="mib_manager.view.MibModuleView" partName="MIB Modules">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="mib_manager.view.OidTreeView" partName="OID Tree">
+<viewState/>
+</view>
+<view id="mib_manager.view.DetailsView" partName="Details">
+<viewState/>
+</view>
+<view id="mib_manager.view.DeviceView" partName="Device">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="mib_manager.view.OidTreeView" activePerspective="mib_manager.perspective.M2rPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="com.ibm.tivoli.netcool.gat.mib_manager.perspectivefactory.M2rPerspective" id="mib_manager.perspective.M2rPerspective" label="mib2rules"/>
+<alwaysOnActionSet id="mib_manager.actionSet1"/>
+<show_view_action id="mib_manager.view.OidTreeView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="mib_manager.view.DetailsView"/>
+<perspective_action id="mib_manager.perspective.M2rPerspective"/>
+<perspective_action id="mib_manager.perspective.MibManagerPerspective"/>
+<perspective_action id="mib_manager.perspective.ProjectPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="mib_manager.view.OidTreeView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="mib_manager.view.DetailsView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@47fd1e5f">
+<folder activePageID="mib_manager.view.OidTreeView" appearance="2" expanded="2">
+<page content="mib_manager.view.OidTreeView" label="OID Tree"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7492754" ratioLeft="517" ratioRight="173" relationship="2" relative="org.eclipse.ui.internal.ViewStack@47fd1e5f">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@d24f997b" ratio="0.49923664" ratioLeft="327" ratioRight="328" relationship="4" relative="org.eclipse.ui.internal.ViewStack@47fd1e5f">
+<folder activePageID="mib_manager.view.DetailsView" appearance="2" expanded="2">
+<page content="mib_manager.view.DetailsView" label="Details"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="mib_manager.mm.views" ratio="0.597561" ratioLeft="196" ratioRight="132" relationship="4" relative="org.eclipse.ui.internal.ViewStack@d24f997b">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.5" ratioLeft="345" ratioRight="345" relationship="2" relative="org.eclipse.ui.internal.ViewStack@d24f997b"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
+<descriptor class="com.ibm.tivoli.netcool.gat.mib_manager.perspectivefactory.MibManagerPerspective" id="mib_manager.perspective.MibManagerPerspective" label="MIB Manager"/>
+<alwaysOnActionSet id="mib_manager.actionSet1"/>
+<show_view_action id="mib_manager.view.OidTreeView"/>
+<show_view_action id="mib_manager.view.DeviceView"/>
+<show_view_action id="mib_manager.view.MibModuleView"/>
+<show_view_action id="mib_manager.view.DetailsView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<perspective_action id="mib_manager.perspective.M2rPerspective"/>
+<perspective_action id="mib_manager.perspective.MibManagerPerspective"/>
+<perspective_action id="mib_manager.perspective.ProjectPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="mib_manager.view.OidTreeView"/>
+<view id="mib_manager.view.DetailsView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="mib_manager.view.DeviceView"/>
+<view id="mib_manager.view.MibModuleView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c13041af">
+<folder activePageID="mib_manager.view.DeviceView" appearance="2" expanded="2">
+<page content="mib_manager.view.DeviceView" label="Device"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7492754" ratioLeft="517" ratioRight="173" relationship="2" relative="org.eclipse.ui.internal.ViewStack@c13041af">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@9ecd847c" ratio="0.6" ratioLeft="414" ratioRight="276" relationship="2" relative="org.eclipse.ui.internal.ViewStack@c13041af">
+<folder activePageID="mib_manager.view.OidTreeView" appearance="2" expanded="2">
+<page content="mib_manager.view.OidTreeView" label="OID Tree"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="mib_manager.mm.views" ratio="0.6" ratioLeft="369" ratioRight="246" relationship="4" relative="org.eclipse.ui.internal.ViewStack@c13041af">
+<folder activePageID="mib_manager.view.DetailsView" appearance="2" expanded="2">
+<page content="mib_manager.view.DetailsView" label="Details"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@f3d01103" ratio="0.39855072" ratioLeft="165" ratioRight="249" relationship="2" relative="org.eclipse.ui.internal.ViewStack@c13041af">
+<folder activePageID="mib_manager.view.MibModuleView" appearance="2" expanded="2">
+<page content="mib_manager.view.MibModuleView" label="MIB Modules"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.59839356" ratioLeft="149" ratioRight="100" relationship="2" relative="org.eclipse.ui.internal.ViewStack@f3d01103"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList/>
+</workbench>
